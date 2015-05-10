@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item 
+        android:id="@+id/activity_modify_dashboard_Menu_actionbar_Item_save"
+        android:showAsAction="always"
+        android:icon="@drawable/save"
+        android:title="@string/activity_modify_task_Menu_actionbar_Item_save_String_title" />
+    
+    <item 
+        android:id="@+id/activity_modify_dashboard_Menu_actionbar_Item_cancel"
+        android:showAsAction="always"
+        android:icon="@drawable/cancel"
+        android:title="@string/activity_modify_task_Menu_actionbar_Item_cancel_String_title" />
+</menu><!-- From: file:/H:/updated%20code/Capstone-Android-App/iDo-master1/app/src/main/res/menu/modify_dashboard.xml -->
